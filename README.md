@@ -9,10 +9,10 @@ The mail is ready when the script is done. It will already be VERIFIED and NO fu
 
 ### USAGE
 
-It is used to generate a protonmail mail for you which you can fully access
+It is used to generate a proton mail for you which you can fully access
 
-Firefox as standard browser is recommended but not must have (for chrome or other browsers just use the chromegen.py)
-
+Firefox as standard browser is recommended but not must have. 
+chromegen.py fixed for chrome and others. For chrome or other browsers just use the chromegen.py
 
 
 ## HOW TO USE
@@ -34,5 +34,3 @@ be sure to click nothing while the script is running otherwise you could interfe
 when finished you can find the mail and password in the accLog.txt
 enjoy!
 
-#### EXCUSES:
-My first python code ever kinda bad but it works. Rn I am working on a selenium version of this because using the webbrowser and pyautogui is really bad for this usecase ig.
